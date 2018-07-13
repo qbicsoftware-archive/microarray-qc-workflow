@@ -28,3 +28,5 @@ The microarray-qc-workflow pipeline comes with documentation about the pipeline,
 
 ### Credits
 This pipeline was written by Timo Lucas ([lucass122](https://github.com/lucass122)) at [QBiC Tübingen](http://www.qbic.uni-tuebingen.de/).
+R script based on script by Stefan Czemmel [qbicStefanC]:
+https://github.com/qbicsoftware/qbic-wf-microarrayQC
