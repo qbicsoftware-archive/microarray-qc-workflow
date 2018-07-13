@@ -1,3 +1,4 @@
+#Work in progress
 # microarray-qc-workflow
 Takes .cel files and creates qc plots as well as normalising the data
 
